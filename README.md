@@ -5,7 +5,8 @@ The following files are supplementary files that correspond to the research manu
 
 ## How to use the files
 
-The files are in .html format. Kindly download the files onto your computer and run it in your browser (Safari, Chrome or Microsoft Edge).
+The files are in .html format. Click on the link to view the file. 
+If the link does not work, kindly download the .html files onto your computer and run it in your browser (Safari, Chrome or Microsoft Edge).
 
 ## Files in this Repository
 
@@ -20,6 +21,7 @@ The files are in .html format. Kindly download the files onto your computer and 
 - *Scatter plot for Monte Carlo Simulations for predicting length of stay ≥30 days (vertical axis corresponds to simulated net benefit)* [Interactive Figure 5.html](Interactive%20Figure%205.html)
 
 - *Scatter plot for Monte Carlo Simulations for predicting length of stay ≥30 days (vertical axis corresponds to simulated individual benefit)* [Interactive Figure 6.html](Interactive%20Figure%206.html) 
----
+
+## Further details
 
 For further details or inquiries, please contact the project contributors or refer to the manuscript.
